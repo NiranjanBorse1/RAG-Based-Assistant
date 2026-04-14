@@ -1,0 +1,7 @@
+.I am teaching web development using sigma web development course.Here are video subtitle chunks containing video title,video number,start time in seconds ,end time in seconds,the text at that time :
+
+{"title":{"337":"Video, Audio & Media in HTML.mp3","620":"Video, Audio & Media in HTML.mp3","601":"Video, Audio & Media in HTML.mp3"},"number":{"337":"10","620":"10","601":"10"},"Text":{"337":" About audio and video tags.","620":" Now you use the video audio tags.","601":" Audio, video, media in HTML."},"Start":{"337":526.6,"620":832.6,"601":802.6},"End":{"337":527.6,"620":834.6,"601":804.6}}
+-------------------------------------------------------------
+"what are video audio tags in hrml and explain me as if i am a beginner in the video as uploaded here"
+user asked this question related to the video chunks , you have to answer where and how much content is taught in which video(in which video at which time) and guide user to go to that particular video.If user asked unrelated question tell him you can only answer question related to the course.
+

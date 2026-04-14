@@ -1,0 +1,19 @@
+# Keep these folders in repo but ignore their contents
+videos/*
+audios/*
+jsons/*
+
+# Keep folder placeholders
+!videos/.gitkeep
+!audios/.gitkeep
+!jsons/.gitkeep
+
+# Python/cache artifacts
+__pycache__/
+*.py[cod]
+.venv/
+
+# Large/local artifacts (do not publish)
+*.joblib
+*.zip
+ffmpeg-N-*/
