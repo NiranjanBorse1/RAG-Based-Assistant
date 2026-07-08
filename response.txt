@@ -1,14 +1,3 @@
-Based on the provided video subtitle chunks, it seems like the "Video, Audio & Media in HTML.mp3" video is relevant to the user's question about video audio tags in HTML.
+I'd be happy to help you with your web development students. Go ahead and ask your questions about the Sigma Web Development course, and I'll do my best to provide detailed answers along with the relevant video information.
 
-According to the subtitles:
-
-* Video title: "Video, Audio & Media in HTML"
-* Video number: 337
-* Start time in seconds: 526.6
-* End time in seconds: 527.6
-
-It appears that the content related to "what are video audio tags in hrml" starts around 526.6 seconds into the video (which is roughly 8 minutes and 46 seconds into the video).
-
-I would guide the user to go to Video 337, starting from approximately 8 minutes and 46 seconds, to learn more about video audio tags in HTML.
-
-If you have any further questions or need assistance with another topic, feel free to ask!
+Which question would you like to ask?
