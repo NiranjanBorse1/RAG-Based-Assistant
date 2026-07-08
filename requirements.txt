@@ -1,0 +1,17 @@
+# Core dependencies for RAG-Based Video Course Assistant
+
+# Data processing
+numpy==2.4.4
+pandas==3.0.2
+scikit-learn==1.8.0
+joblib==1.5.3
+
+# HTTP requests (for Ollama API)
+requests==2.33.1
+
+# Speech-to-text transcription
+openai-whisper==20250625
+
+# Required by Whisper
+torch==2.11.0
+tiktoken==0.12.0

@@ -84,7 +84,7 @@ source .venv/bin/activate
 ### 3. Install Python Dependencies
 
 ```bash
-pip install pandas numpy scikit-learn joblib requests openai-whisper
+pip install -r requirements.txt
 ```
 
 ### 4. Pull Ollama Models
